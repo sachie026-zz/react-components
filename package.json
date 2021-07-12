@@ -1,14 +1,21 @@
 {
-  "name": "react-components-lib",
+  "name": "react-components-sample-lib",
   "description": "Two test React components",
   "author": "sachie026",
-  "keywords": ["react", "components", "ui"],
-  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "components",
+    "ui"
+  ],
+  "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "files": [ "dist", "README.md" ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:sachie026/react-components.git"

@@ -3,13 +3,13 @@
 
 ### Install
 
-Install using `npm install react-components-lib`
+Install using `npm install react-components-sample-lib`
 
 ### Usage 
 
 In a React app, use the Button or Badge components:  
-`import { Button } from 'react-components-lib'`  
-`import { Badge } from 'react-components-lib'` 
+`import { Button } from 'react-components-sample-lib'`  
+`import { Badge } from 'react-components-sample-lib'` 
 
 #### Button props
 
