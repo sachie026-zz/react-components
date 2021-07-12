@@ -3,13 +3,13 @@
 
 ### Install
 
-Install using `npm install jawblia`
+Install using `npm install react-components-lib`
 
 ### Usage 
 
 In a React app, use the Button or Badge components:  
-`import { Button } from 'jawblia'`  
-`import { Badge } from 'jawblia'` 
+`import { Button } from 'react-components-lib'`  
+`import { Badge } from 'react-components-lib'` 
 
 #### Button props
 
